@@ -1,5 +1,5 @@
 # NOTICE
-Noss-E is officially discontinued, and its site, Concept, and/or branding, maybe used in the future
+Noss-E is officially discontinued, and its site, Concept, and/or branding, maybe used or revived in the future
 
 # Noss-E
 
