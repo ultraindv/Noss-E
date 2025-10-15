@@ -1,6 +1,9 @@
 # NOTICE
-Noss-E is officially discontinued until further notice
-# IMPORTANT
+Noss-E is officially discontinued, and its site, Concept, and/or branding, maybe used in the future
+
+# Noss-E
+
+### IMPORTANT
 Warning: Do not delete any files required to run Noss-E. doing so will BREAK YOUR FILE
-# About Noss-E
+### About Noss-E
 Noss-E is a UltrainDV Project
