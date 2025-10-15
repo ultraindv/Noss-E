@@ -1,7 +1,7 @@
 ## About Noss-E
 ### MIT Lisence
 
-Copyright (c) 2023-2024 TahjaeDev
+Copyright (c) 2023-2024 UltrainDV
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of Noss-E, to deal
@@ -21,6 +21,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Noss-E is hearby modifyable. but cannot be sold on the web without permission of TahjaeDev
-
-TahjaeDev and Noss-E are trademarks of Tahjae Media Group Ltd. all rights reserved
+Noss-E is hearby modifyable, and can be forked. but cannot be sold on the web without permission of UltrainDV
